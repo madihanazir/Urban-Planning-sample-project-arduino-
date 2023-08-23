@@ -4,7 +4,7 @@ It’s an efficient method for space utilisation and for proper nourishment of p
 We are not only using area but also volume as this system is stackable. (cubic space utilisation)
 # FUTURE SCOPE:
 Plant monitoring system using IoT and ML : a system must be developed where plants can communicate with users through IoT
-An Ion based Home automation system: capable of monitoring weather conditions
+An IoT based Home automation system: capable of monitoring weather conditions
 An Interface can be made for detecting gas concentration level
 By measuring longitudinal and latitudinal extents , system can be made portable by using RC
 AI and IoT based monitoring system for increasing yield in crop production
